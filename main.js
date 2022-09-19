@@ -17,6 +17,6 @@ app.get("/home", function(req,res){
 app.get("/thank_you", function(req,res){
     res.render("thank_you");
 });
-app.listen(process.env.PORT, function(){
+app.listen(process.env.PORT || 2000, function(){
     console.log("App Started Successfully!!!");
 });

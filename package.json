@@ -1,12 +1,13 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "My PortFolio",
+  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Deepak Sarangi",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
