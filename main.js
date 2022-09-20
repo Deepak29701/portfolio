@@ -3,6 +3,7 @@
 const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
+var port = process.env.PORT;
 
 app.use(express.static("public"));
 app.set('view engine','ejs');
@@ -17,6 +18,6 @@ app.get("/home", function(req,res){
 app.get("/thank_you", function(req,res){
     res.render("thank_you");
 });
-app.listen(process.env.PORT, function(){
+app.listen(port, function(){
     console.log("App Started Successfully!!!");
 });
