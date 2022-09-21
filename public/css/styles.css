@@ -116,7 +116,7 @@ li{
 #myBtn {
     display: none;
     position: fixed;
-    bottom: 60px;
+    bottom: 80px;
     right: 30px;
     z-index: 99;
     font-size: 23px;
