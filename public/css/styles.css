@@ -32,9 +32,6 @@ li{
     font-style: italic;
     font-family:cursive;
 }
-.sidenav{
-    margin: 2% 5% 2% 0%;
-}
 #mynav a{
     padding: 15px;
     width: 120px;
@@ -48,6 +45,7 @@ li{
 }
 .navbar-item{
     list-style-type: none;
+    padding: 2%;
 }
 #about:hover{
     border-radius: 40px;
