@@ -35,18 +35,19 @@ li{
 .sidenav{
     margin: 2% 5% 2% 0%;
 }
-#mySidenav a{
-    position: absolute;
-    transition: 0.5s;
+#mynav a{
     padding: 15px;
     width: 40px;
     text-decoration: none;
     font-size: 20px;
     color: white;
-    border-radius: 0 5px 5px 0;
 }
 .navbar{
     background-color: transparent;
+    border-radius: 30px;
+}
+.navbar-item{
+    list-style-type: none;
 }
 #about:hover{
     text-align: center;
