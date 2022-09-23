@@ -46,7 +46,6 @@ li{
 }
 .navbar-item{
     list-style-type: none;
-    padding: 2%;
 }
 #about:hover{
     border-radius: 40px;
@@ -73,7 +72,7 @@ li{
     text-align: center;
     background-color: rgb(179, 245, 80);
 }
-.container {
+.container{
     margin: 3% 0% 2%;
     text-align: center;
     position: absolute;
@@ -85,7 +84,7 @@ li{
 .container span{
     display: block;
 }
-.text1 {
+.text1{
     color: #33ccff;
     font-weight: 700;
     letter-spacing: 2px;
@@ -103,7 +102,7 @@ li{
     }
 
     30% {
-        letter-spacing: 15px;
+        letter-spacing: 10px;
         margin-bottom: -40px;
     }
 
@@ -112,7 +111,7 @@ li{
         margin-bottom: -40px;
     }
 }
-#myBtn {
+#myBtn{
     display: none;
     position: fixed;
     bottom: 80px;
@@ -130,7 +129,7 @@ li{
     width: 40px;
 }
 
-#myBtn:hover {
+#myBtn:hover{
     border-color: #33ccff;
     color: #33ccff;
 }
