@@ -45,6 +45,7 @@ li{
 .nav-link{
     color: white !important;
     font-size: large;
+    font-weight: bold;
     text-decoration: none;
 }
 #about:hover{
