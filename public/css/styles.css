@@ -47,6 +47,10 @@ li{
 .navbar-item{
     list-style-type: none;
 }
+.nav-link{
+    color: white !important;
+    font-size: large;
+}
 #about:hover{
     border-radius: 40px;
     text-align: center;
