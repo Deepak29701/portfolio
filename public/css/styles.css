@@ -32,9 +32,6 @@ li{
     font-style: italic;
     font-family:cursive;
 }
-.nav{
-    padding: 5px 15px;
-}
 #mynav a{
     padding: 15px;
     width: 120px;
@@ -45,6 +42,7 @@ li{
 .navbar{
     background-color: #C3F8FF;
     border-radius: 40px;
+    padding: 5px 15px;
 }
 .navbar-item{
     list-style-type: none;
