@@ -48,23 +48,23 @@ li{
 .navbar{
     background-color: transparent;
 }
-#about{
+#about:hover{
     text-align: center;
     background-color: rgb(255, 0, 157);
 }
-#details{
+#details:hover{
     text-align: center;
     background-color: #2196F3;
 }
-#certificates{
+#certificates:hover{
     text-align: center;
     background-color: #f44336;
 }
-#contact{
+#contact:hover{
     text-align: center;
     background-color: #555;
 }
-#thank_you{
+#thank_you:hover{
     text-align: center;
     background-color: rgb(179, 245, 80);
 }
