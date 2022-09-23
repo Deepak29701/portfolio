@@ -46,6 +46,7 @@ li{
 }
 .navbar-item{
     list-style-type: none;
+    padding: 5px;
 }
 .nav-link{
     color: white !important;
