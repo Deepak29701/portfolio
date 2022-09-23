@@ -37,35 +37,40 @@ li{
 }
 #mynav a{
     padding: 15px;
-    width: 40px;
+    width: 120px;
     text-decoration: none;
     font-size: 20px;
     color: white;
 }
 .navbar{
     background-color: transparent;
-    border-radius: 30px;
+    border-radius: 40px;
 }
 .navbar-item{
     list-style-type: none;
 }
 #about:hover{
+    border-radius: 40px;
     text-align: center;
     background-color: rgb(255, 0, 157);
 }
 #details:hover{
+    border-radius: 40px;
     text-align: center;
     background-color: #2196F3;
 }
 #certificates:hover{
+    border-radius: 40px;
     text-align: center;
     background-color: #f44336;
 }
 #contact:hover{
+    border-radius: 40px;
     text-align: center;
     background-color: #555;
 }
 #thank_you:hover{
+    border-radius: 40px;
     text-align: center;
     background-color: rgb(179, 245, 80);
 }
