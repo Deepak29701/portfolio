@@ -14,27 +14,29 @@
         <script defer src="https://use.fontawesome.com/releases/v6.1.0/js/all.js"></script>
     </head>
     <body style="background: linear-gradient(to right, #33ccff 0%, #99ff99 100%); background-repeat: no-repeat; padding: 0px;">
+        <div class="fixed-top">
+            <nav class="navbar navbar-expand-lg shadow" style="margin: 2% 20%;">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+                  data-bs-target="#mySidenav" aria-controls="navbarTogglerDemo01" 
+                  aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon" style="color: white;"> 
+                    <i class="fa-solid fa-bars"></i> 
+                  </span>
+                </button>
+                <div id="mySidenav" class="collapse navbar-collapse sidenav">
+                    <ul>
+                        <li><a class="nav-link" href="#header" id="about">About</a></li>
+                        <li><a class="nav-link" href="#more" id="details">Details</a></li>
+                        <li><a class="nav-link" href="#credentials" id="certificates">Certificates</a></li>
+                        <li><a class="nav-link" href="#footer" id="contact">Contact</a></li>
+                        <li><a class="nav-link" href="/thank_you" id="thank_you">End</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
         <div class="row">
             <div class="col-lg-11">
                 <div id="header" style="display: inline-flex; margin: 50px 30px 50px 90px;">
-                    <nav class="fixed-top">
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
-                          data-bs-target="#mySidenav" aria-controls="navbarTogglerDemo01" 
-                          aria-expanded="false" aria-label="Toggle navigation">
-                          <span class="navbar-toggler-icon" style="color: white;"> 
-                            <i class="fa-solid fa-bars"></i> 
-                          </span>
-                        </button>
-                        <div id="mySidenav" class="collapse navbar-collapse sidenav">
-                            <ul style="display: none;">
-                                <li><a class="nav-link" href="#header" id="about">About</a></li>
-                                <li><a class="nav-link" href="#more" id="details">Details</a></li>
-                                <li><a class="nav-link" href="#credentials" id="certificates">Certificates</a></li>
-                                <li><a class="nav-link" href="#footer" id="contact">Contact</a></li>
-                                <li><a class="nav-link" href="/thank_you" id="thank_you">End</a></li>
-                            </ul>
-                        </div>
-                    </nav>
                     <img class="shadow shadow-lg" src="images/deepak.jpg" style="height: 27%; width: 27%; border-radius: 50%; object-fit: cover;">
                     <div style="display: inline; padding-left: 7%; margin-right: 5px;">
                         <h1 style="color: deeppink; font-size: 50px;">Hi!</h1>
