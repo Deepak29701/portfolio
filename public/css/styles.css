@@ -32,6 +32,9 @@ li{
     font-style: italic;
     font-family:cursive;
 }
+.nav{
+    padding: 5px 15px;
+}
 #mynav a{
     padding: 15px;
     width: 120px;
