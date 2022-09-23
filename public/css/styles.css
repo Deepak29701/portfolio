@@ -37,40 +37,34 @@ li{
 }
 #mySidenav a{
     position: absolute;
-    left: -80px;
     transition: 0.5s;
     padding: 15px;
-    width: 150px;
+    width: 40px;
     text-decoration: none;
     font-size: 20px;
     color: white;
     border-radius: 0 5px 5px 0;
 }
-#mySidenav a:hover{
-    left: 0;
+.navbar{
+    background-color: transparent;
 }
 #about{
-    top: 40px;
     text-align: center;
     background-color: rgb(255, 0, 157);
 }
 #details{
-    top: 110px;
     text-align: center;
     background-color: #2196F3;
 }
 #certificates{
-    top: 180px;
     text-align: center;
     background-color: #f44336;
 }
 #contact{
-    top: 250px;
     text-align: center;
     background-color: #555;
 }
 #thank_you{
-    top: 320px;
     text-align: center;
     background-color: rgb(179, 245, 80);
 }
