@@ -149,3 +149,9 @@ li{
 .more-details{
     margin: 0px 10px;
 }
+#footer{
+    padding: 3% 7%;
+    background-color: black; 
+    background-attachment: fixed; 
+    background-repeat: none;
+}
