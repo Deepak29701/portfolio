@@ -129,3 +129,8 @@ li{
     border-color: #33ccff;
     color: #33ccff;
 }
+#credentials{ 
+    background-color: #A5F1E9; 
+    background-attachment: fixed; 
+    background-repeat: none;
+}
