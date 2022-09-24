@@ -140,3 +140,9 @@ li{
     font-size: 28px; 
     font-style: italic;
 }
+.header{
+    background-attachment: fixed; 
+    background: linear-gradient(to right, #33ccff 0%, #99ff99 100%); 
+    background-repeat: no-repeat; 
+    margin-bottom: 0px;
+}
