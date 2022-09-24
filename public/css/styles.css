@@ -134,3 +134,9 @@ li{
     background-attachment: fixed; 
     background-repeat: none;
 }
+.certi-heading{
+    color: white;
+    font-weight: bold;
+    font-size: 35px; 
+    font-style: italic;
+}
