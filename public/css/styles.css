@@ -1,6 +1,10 @@
 li{
     color: rgb(255, 128, 149);
 }
+button:focus{
+    border: none;
+    outline: none;
+}
 .media-link{
     margin: 20px 15px;
 }
