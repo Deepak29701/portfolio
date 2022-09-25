@@ -68,7 +68,7 @@ button:focus{
 }
 #thank_you:hover{
     border-radius: 40px;
-    background-color: rgb(179, 245, 80);
+    background-color: #00FFD1;
 }
 .container{
     margin: 3% 0% 2%;
