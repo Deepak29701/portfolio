@@ -179,5 +179,6 @@ button:focus{
     display: inline;
 }
 .projects{
+    flex-direction: row;
     display: flex;
 }
