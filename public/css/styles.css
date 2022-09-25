@@ -160,13 +160,13 @@ li{
 }
 .carousel-control-next{
     margin: 5px -8px 0px 6px; 
-    color: #444;
+    color: #444 !important;
     font-weight: bold;
     font-size: 40px;
 }
 .carousel-control-prev{
     margin: 5px 6px 0px -8px; 
-    color: #444;
+    color: #444 !important;
     font-weight: bold;
     font-size: 40px;
 }
