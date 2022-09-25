@@ -33,6 +33,7 @@ button:focus{
 .heading{
     font-style: italic;
     font-family:cursive;
+    text-align: center;
 }
 .navbar{
     background-color: rgba(0, 0, 0, 0.4);
