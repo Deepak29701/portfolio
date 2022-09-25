@@ -5,9 +5,6 @@ button:focus{
     border: none;
     outline: none;
 }
-.media-link{
-    margin: 20px 15px;
-}
 .social-links{
     margin: 2% 1%;
     display: inline-flex;
@@ -15,6 +12,7 @@ button:focus{
 }
 .social-links .media-link{
     color: white;
+    margin: 20px 15px;
 }
 .media-icon:hover{
     color: #2196F3;
