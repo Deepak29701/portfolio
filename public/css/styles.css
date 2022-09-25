@@ -177,5 +177,5 @@ button:focus{
 }
 .projects{
     display: inline-flex;
-    display-list: dotted;
+    list-style: circle;
 }
