@@ -178,7 +178,3 @@ button:focus{
 .project-list{
     display: inline;
 }
-.projects{
-    flex-direction: row;
-    display: flex;
-}
