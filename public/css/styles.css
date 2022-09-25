@@ -177,3 +177,7 @@ button:focus{
 .image-pad{
     padding: 1% 45%;
 }
+.projects{
+    display: inline-flex;
+    display-list: dotted;
+}
