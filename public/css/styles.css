@@ -175,7 +175,9 @@ button:focus{
 .image-pad{
     padding: 1% 45%;
 }
+.project-list{
+    display: inline;
+}
 .projects{
-    display: inline-flex;
-    list-style: circle;
+    display: flex;
 }
