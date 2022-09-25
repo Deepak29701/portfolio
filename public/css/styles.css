@@ -158,14 +158,18 @@ li{
 .footer-details{
     padding: 2% 5%;
 }
-.carousel-control-next-icon{
+.carousel-control-next{
     margin: 5px -8px 0px 6px; 
     color: black;
+    font-weight: bold;
+    font-size: 40px;
 }
-.carousel-control-prev-icon{
+.carousel-control-prev{
     margin: 5px 6px 0px -8px; 
     color: black;
+    font-weight: bold;
+    font-size: 40px;
 }
 .image-pad{
-    padding: 1% 42%;
+    padding: 1% 45%;
 }
