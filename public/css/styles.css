@@ -114,14 +114,14 @@ button:focus{
 #myBtn{
     display: none;
     position: fixed;
-    bottom: 80px;
-    right: 30px;
+    bottom: 60px;
+    right: 20px;
     z-index: 99;
     font-size: 23px;
     border: none;
     outline: none;
     background-color: transparent;
-    color: black;
+    color: blue;
     cursor: pointer;
     padding: 5px;
     border: 3px solid black;
