@@ -45,6 +45,7 @@ button:focus::after{
 .navbar-item{
     list-style-type: none;
     padding: 5px;
+    align-text: center;
 }
 .nav-link{
     color: white !important;
