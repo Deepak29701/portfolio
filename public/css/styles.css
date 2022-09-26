@@ -1,7 +1,7 @@
 li{
     color: rgb(255, 128, 149);
 }
-button:focus{
+button::after{
     border: none !important;
     outline: none !important;
 }
