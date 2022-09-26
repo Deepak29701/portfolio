@@ -176,3 +176,8 @@ button:focus{
 .image-pad{
     padding: 1% 45%;
 }
+.descrip{
+    color: grey; 
+    font-size: 17px; 
+    align-text: left;
+}
