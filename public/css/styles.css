@@ -181,3 +181,8 @@ button:focus::after{
     font-size: 17px; 
     align-text: none;
 }
+#navbarToggler{
+    background-color: black; 
+    margin: 3px 6px; 
+    border-radius: 0%;
+}
