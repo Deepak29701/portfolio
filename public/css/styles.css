@@ -179,5 +179,5 @@ button:focus{
 .descrip{
     color: grey; 
     font-size: 17px; 
-    align-text: left;
+    align-text: none;
 }
