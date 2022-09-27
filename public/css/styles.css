@@ -120,11 +120,10 @@ button:focus::after{
     font-size: 23px;
     border: none;
     outline: none;
-    background-color: transparent;
+    background-color: orange;
     color: blue;
     cursor: pointer;
     padding: 5px;
-    border: 3px solid blue;
     border-radius: 50%;
     width: 40px;
 }
