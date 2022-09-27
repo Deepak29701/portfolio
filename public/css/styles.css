@@ -93,7 +93,8 @@ button:focus::after{
     animation: text 5s 1;
 }
 .text2{
-    color: green;
+    color: #00FFD1;
+    text-shadow: 2px 2px 5px #101010;
 }
 @keyframes text {
     0% {
