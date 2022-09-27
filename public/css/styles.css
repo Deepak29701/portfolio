@@ -72,6 +72,18 @@ button:focus::after{
     border-radius: 40px;
     background-color: #00FFD1;
 }
+.container {
+    margin: 3% 0% 2%;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+.container span{
+    display: block;
+}
 .text1{
     color: #33ccff;
     font-weight: 700;
