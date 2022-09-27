@@ -121,7 +121,7 @@ button:focus::after{
     font-size: 20px;
     border: none;
     outline: none;
-    background-color: #31C6D4;
+    background-color: #0096FF;
     color: white;
     cursor: pointer;
     padding: 5px;
