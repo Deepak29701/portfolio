@@ -114,13 +114,13 @@ button:focus::after{
 #myBtn{
     display: none;
     position: fixed;
-    bottom: 50px;
+    bottom: 40px;
     right: 20px;
     z-index: 99;
     font-size: 20px;
     border: none;
     outline: none;
-    background-color: orange;
+    background-color: #31C6D4;
     color: white;
     cursor: pointer;
     padding: 5px;
