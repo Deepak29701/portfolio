@@ -121,7 +121,7 @@ button:focus::after{
     border: none;
     outline: none;
     background-color: orange;
-    color: black;
+    color: white;
     cursor: pointer;
     padding: 5px;
     border-radius: 50%;
@@ -129,8 +129,7 @@ button:focus::after{
 }
 
 #myBtn:hover{
-    border-color: #33ccff;
-    color: #33ccff;
+    color: black;
 }
 #credentials{ 
     background-color: #A5F1E9; 
