@@ -145,7 +145,7 @@ button:focus::after{
 }
 .header{
     background-attachment: fixed; 
-    background: linear-gradient(to right, #33ccff 0%, #99ff99 100%); 
+    background: linear-gradient(to right, #ccffcc 0%, #33ccff 100%); 
     background-repeat: no-repeat; 
     margin-bottom: 0px;
 }
