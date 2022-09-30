@@ -17,7 +17,7 @@
     <body>
         <div id="loading"></div> 
         <script>
-            $.get("/assets/html/loader.html", function(data){
+            $.get("views/loader.ejs", function(data){
                 $("#loading").replaceWith(data);
             });
             $(window).on('load', function(){
