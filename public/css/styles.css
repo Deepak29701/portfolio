@@ -85,7 +85,7 @@ button:focus::after{
     display: block;
 }
 .text1{
-    color: orange;
+    color: #FF577F;
     font-weight: 700;
     letter-spacing: 2px;
     margin-bottom: 20px;
